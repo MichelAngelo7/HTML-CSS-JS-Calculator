@@ -1,3 +1,3 @@
 # HTML-CSS-JS-Calculator
 
-![](calculadora.gif)
+![](calc.gif)
