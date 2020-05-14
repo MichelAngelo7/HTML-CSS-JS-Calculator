@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=JDiurjhpOXA&t=220s
 
 I found it interesting and wanted to see if in practice it would really work.
 
-##get started
+## get started
 
 Toda a modificação foi feita dentro do index.html, então basta copiar esse arquivo é abrir ele com um nevagador.
 
